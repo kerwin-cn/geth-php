@@ -14,7 +14,7 @@ Requirements
 Installation
 ============
 
-    composer require kemalevren/geth-php
+    composer require kerwin-c/geth-php ^1.2
     
     
 Usage
