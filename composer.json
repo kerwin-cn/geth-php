@@ -1,5 +1,5 @@
 {
-  "name": "kemalevren/geth-php",
+  "name": "kerwin-cn/geth-php",
   "description": "A PHP wrapper to the geth JSON-RPC API.",
   "keywords": [
     "geth",
