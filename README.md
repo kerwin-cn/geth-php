@@ -14,7 +14,7 @@ Requirements
 Installation
 ============
 
-    composer require kerwin-c/geth-php ^1.2
+    composer require kerwin-cn/geth-php ^1.2
     
     
 Usage
